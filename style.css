@@ -14,7 +14,7 @@ h1 {
 .color-skyblue {
   color: rgb(120, 23, 211);
 }
-section {
+.felxible-container {
   display: flex;
   margin-bottom: 130px;
 }
