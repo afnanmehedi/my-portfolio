@@ -4,7 +4,6 @@ body {
 }
 h1 {
   font-size: 50px;
-  color: ;
 }
 .orange-color {
   color: orange;
@@ -17,6 +16,7 @@ h1 {
 }
 section {
   display: flex;
+  margin-bottom: 130px;
 }
 .half-width {
   width: 50%;
@@ -35,5 +35,16 @@ section {
 }
 .top-banner {
   background-image: url(images/top-banner.png);
-  background-repeat:no-repeat;
+  background-repeat: no-repeat;
+}
+.im {
+  width: 70%;
+}
+.color-span {
+  color: rgb(114, 44, 180);
+}
+.dream-big {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
